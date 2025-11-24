@@ -1,1 +1,0 @@
-# rainpath-test-technique
